@@ -1,8 +1,0 @@
-part,category,manufacturer,mpn,datasheet_version_or_date,link,package,notes
-MCU,Processor,NXP,MIMXRT1062DVJ6B,,,MAPBGA196,
-Bootloader MCU,Security/NXP boot,NXP,MKL02Z32VFG4,,,,
-Flash,Memory,Winbond,W25Q64JVXGIM TR,,,,
-Regulator,Buck,Texas Instruments,TPS62063DSGR,,,,
-Regulator,LDO,Texas Instruments,TLV75733PDBVR,,,,
-USB-C Conn,Connector,GCT,USB4105-GF-A,,,,
-ESD,Protection,ST/Onsemi/etc,MEM2067-02-180-00-A_REVB,,,,
