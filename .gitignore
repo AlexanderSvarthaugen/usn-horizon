@@ -1,0 +1,28 @@
+# KiCad backups/autosaves
+**/*-backups*/
+**/*_autosave-*
+**/*.kicad_pro-bak
+**/*.kicad_sch-bak
+**/*.kicad_pcb-bak
+**/*.bak
+**/*.bck
+**/*.tmp
+**/fp-info-cache
+
+# Generated exports (only commit in releases/)
+**/gerber/
+**/Gerber/
+**/plot/
+**/plots/
+**/*.gbr
+**/*.drl
+**/*.pos
+**/*.step
+**/*.stp
+**/*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
